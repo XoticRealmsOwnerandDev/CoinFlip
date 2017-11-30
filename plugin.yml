@@ -1,0 +1,6 @@
+name: CoinFlip
+description: CoinFlip
+version: 1.0.0
+main: BajanVlogs\CoinFlip
+author: BajanVlogs
+api: 3.0.0-ALPHA9
