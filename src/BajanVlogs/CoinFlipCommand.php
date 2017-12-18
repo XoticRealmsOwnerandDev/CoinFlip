@@ -22,7 +22,7 @@ class CoinFlipCommand extends VanillaCommand {
 			return false;
 		}
 
-		array $args[0] = strtolower($args[0]);
+		array $args[0] = strtolower(array $args[0]);
 		if(isset(array $args[0])){
 			switch(array $args[0]){
 				case "accept":
